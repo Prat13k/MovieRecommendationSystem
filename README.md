@@ -6,7 +6,7 @@ Our Movie Recommendation System Project utilizes advanced machine learning algor
 #### Dataset 
 There are several CSV files.
 
-Links : Links.CSV contains the Links.
-Rating : Rating.CSV contains the ratings of the movies.
-Tags : Tags.CSV contains the tags of the movies.
-Moives : Moves.CSV contains the movies.
+Links : Links.CSV contains the Links./n
+Rating : Rating.CSV contains the ratings of the movies./n
+Tags : Tags.CSV contains the tags of the movies./n
+Moives : Moves.CSV contains the movies./n
